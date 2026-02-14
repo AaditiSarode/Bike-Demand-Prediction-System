@@ -8,9 +8,15 @@ Urban bike-sharing systems require accurate demand forecasting to ensure optimal
 This project uses Machine Learning (Random Forest Regression) to predict the number of rental bikes required at a given hour based on:
 
 -Time (Hour)
+
 -Temperature
+
 -Humidity
+
 -Wind Speed
+
 -Working Day
+
 -Holiday
+
 -Weather Conditions
